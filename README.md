@@ -7,7 +7,7 @@ The motivation for making this application was to change everything from a Restf
 Run npm install to install dependencies
 
 ## Usage
-To use this application, clone the repository, change directory into the cloned repository and then in the terminal run "npm i -s". This will download the needed dependencies. After that, you can run "npm run develop" in the terminal and the app will open up locally. To see the application on a live server, visit: 
+To use this application, clone the repository, change directory into the cloned repository and then in the terminal run "npm i -s". This will download the needed dependencies. After that, you can run "npm run develop" in the terminal and the app will open up locally. To see the application on a live server, visit: https://cryptic-inlet-55873-17b85c4bf208.herokuapp.com/
 
 ## Contributing
 Morgan. AskBCS.
@@ -22,3 +22,6 @@ N/A
 
   ## License
   This project is licensed under the MIT license.
+
+
+  ![Screenshot 2023-08-20 134023](https://github.com/Gixxer777/my-cool-book-search-engine/assets/127446403/ecf61b90-346b-484f-8a67-40ee7e03dd5e)
